@@ -9,6 +9,27 @@
 /* Begin PBXBuildFile section */
 		86EF2BE31D19259E0038B36F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86EF2BE21D19259E0038B36F /* AppDelegate.swift */; };
 		86EF2BEA1D19259E0038B36F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 86EF2BE91D19259E0038B36F /* Assets.xcassets */; };
+		86EF2C0E1D1928B90038B36F /* AD in Resources */ = {isa = PBXBuildFile; fileRef = 86EF2BFA1D1928B90038B36F /* AD */; };
+		86EF2C0F1D1928B90038B36F /* FocusURL.plist in Resources */ = {isa = PBXBuildFile; fileRef = 86EF2BFB1D1928B90038B36F /* FocusURL.plist */; };
+		86EF2C101D1928B90038B36F /* HelpPlist.plist in Resources */ = {isa = PBXBuildFile; fileRef = 86EF2BFC1D1928B90038B36F /* HelpPlist.plist */; };
+		86EF2C111D1928B90038B36F /* Mine in Resources */ = {isa = PBXBuildFile; fileRef = 86EF2BFD1D1928B90038B36F /* Mine */; };
+		86EF2C121D1928B90038B36F /* MinePlist.plist in Resources */ = {isa = PBXBuildFile; fileRef = 86EF2BFE1D1928B90038B36F /* MinePlist.plist */; };
+		86EF2C131D1928B90038B36F /* MyAdress in Resources */ = {isa = PBXBuildFile; fileRef = 86EF2BFF1D1928B90038B36F /* MyAdress */; };
+		86EF2C141D1928B90038B36F /* MyCoupon in Resources */ = {isa = PBXBuildFile; fileRef = 86EF2C001D1928B90038B36F /* MyCoupon */; };
+		86EF2C151D1928B90038B36F /* MyOrders in Resources */ = {isa = PBXBuildFile; fileRef = 86EF2C011D1928B90038B36F /* MyOrders */; };
+		86EF2C161D1928B90038B36F /* Search in Resources */ = {isa = PBXBuildFile; fileRef = 86EF2C021D1928B90038B36F /* Search */; };
+		86EF2C171D1928B90038B36F /* SearchProduct in Resources */ = {isa = PBXBuildFile; fileRef = 86EF2C031D1928B90038B36F /* SearchProduct */; };
+		86EF2C181D1928B90038B36F /* supermarket in Resources */ = {isa = PBXBuildFile; fileRef = 86EF2C041D1928B90038B36F /* supermarket */; };
+		86EF2C191D1928B90038B36F /* SystemMessage in Resources */ = {isa = PBXBuildFile; fileRef = 86EF2C051D1928B90038B36F /* SystemMessage */; };
+		86EF2C1A1D1928B90038B36F /* UserMessage in Resources */ = {isa = PBXBuildFile; fileRef = 86EF2C061D1928B90038B36F /* UserMessage */; };
+		86EF2C1B1D1928B90038B36F /* 促销 in Resources */ = {isa = PBXBuildFile; fileRef = 86EF2C071D1928B90038B36F /* 促销 */; };
+		86EF2C1C1D1928B90038B36F /* 系统消息 in Resources */ = {isa = PBXBuildFile; fileRef = 86EF2C081D1928B90038B36F /* 系统消息 */; };
+		86EF2C1D1D1928B90038B36F /* 首页新鲜热卖 in Resources */ = {isa = PBXBuildFile; fileRef = 86EF2C091D1928B90038B36F /* 首页新鲜热卖 */; };
+		86EF2C1E1D1928B90038B36F /* 首页焦点按钮 in Resources */ = {isa = PBXBuildFile; fileRef = 86EF2C0A1D1928B90038B36F /* 首页焦点按钮 */; };
+		86EF2C201D1928E10038B36F /* CTConst.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86EF2C1F1D1928E10038B36F /* CTConst.swift */; };
+		86EF2C221D192AF10038B36F /* CTHomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86EF2C211D192AF10038B36F /* CTHomeViewController.swift */; };
+		86EF2C241D192D260038B36F /* CTMainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86EF2C231D192D260038B36F /* CTMainViewController.swift */; };
+		86EF2C261D192E850038B36F /* CTBaseNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86EF2C251D192E850038B36F /* CTBaseNavigationController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -16,6 +37,27 @@
 		86EF2BE21D19259E0038B36F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		86EF2BE91D19259E0038B36F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		86EF2BEE1D19259E0038B36F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		86EF2BFA1D1928B90038B36F /* AD */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = AD; sourceTree = "<group>"; };
+		86EF2BFB1D1928B90038B36F /* FocusURL.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = FocusURL.plist; sourceTree = "<group>"; };
+		86EF2BFC1D1928B90038B36F /* HelpPlist.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = HelpPlist.plist; sourceTree = "<group>"; };
+		86EF2BFD1D1928B90038B36F /* Mine */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Mine; sourceTree = "<group>"; };
+		86EF2BFE1D1928B90038B36F /* MinePlist.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = MinePlist.plist; sourceTree = "<group>"; };
+		86EF2BFF1D1928B90038B36F /* MyAdress */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MyAdress; sourceTree = "<group>"; };
+		86EF2C001D1928B90038B36F /* MyCoupon */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MyCoupon; sourceTree = "<group>"; };
+		86EF2C011D1928B90038B36F /* MyOrders */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MyOrders; sourceTree = "<group>"; };
+		86EF2C021D1928B90038B36F /* Search */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Search; sourceTree = "<group>"; };
+		86EF2C031D1928B90038B36F /* SearchProduct */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SearchProduct; sourceTree = "<group>"; };
+		86EF2C041D1928B90038B36F /* supermarket */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = supermarket; sourceTree = "<group>"; };
+		86EF2C051D1928B90038B36F /* SystemMessage */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SystemMessage; sourceTree = "<group>"; };
+		86EF2C061D1928B90038B36F /* UserMessage */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = UserMessage; sourceTree = "<group>"; };
+		86EF2C071D1928B90038B36F /* 促销 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "促销"; sourceTree = "<group>"; };
+		86EF2C081D1928B90038B36F /* 系统消息 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "系统消息"; sourceTree = "<group>"; };
+		86EF2C091D1928B90038B36F /* 首页新鲜热卖 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "首页新鲜热卖"; sourceTree = "<group>"; };
+		86EF2C0A1D1928B90038B36F /* 首页焦点按钮 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "首页焦点按钮"; sourceTree = "<group>"; };
+		86EF2C1F1D1928E10038B36F /* CTConst.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CTConst.swift; sourceTree = "<group>"; };
+		86EF2C211D192AF10038B36F /* CTHomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CTHomeViewController.swift; sourceTree = "<group>"; };
+		86EF2C231D192D260038B36F /* CTMainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CTMainViewController.swift; sourceTree = "<group>"; };
+		86EF2C251D192E850038B36F /* CTBaseNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CTBaseNavigationController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,10 +91,103 @@
 			isa = PBXGroup;
 			children = (
 				86EF2BE21D19259E0038B36F /* AppDelegate.swift */,
+				86EF2BF41D1928B90038B36F /* Classes */,
 				86EF2BE91D19259E0038B36F /* Assets.xcassets */,
 				86EF2BEE1D19259E0038B36F /* Info.plist */,
 			);
 			path = LoveFreshBeen;
+			sourceTree = "<group>";
+		};
+		86EF2BF41D1928B90038B36F /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				86EF2BF51D1928B90038B36F /* CTLBFBase */,
+				86EF2BF61D1928B90038B36F /* Home */,
+				86EF2BF71D1928B90038B36F /* Other */,
+				86EF2BF81D1928B90038B36F /* Profile */,
+				86EF2BF91D1928B90038B36F /* Resouce */,
+				86EF2C0B1D1928B90038B36F /* ShopCar */,
+				86EF2C0C1D1928B90038B36F /* SuperMarket */,
+				86EF2C0D1D1928B90038B36F /* Tools */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		86EF2BF51D1928B90038B36F /* CTLBFBase */ = {
+			isa = PBXGroup;
+			children = (
+				86EF2C231D192D260038B36F /* CTMainViewController.swift */,
+				86EF2C251D192E850038B36F /* CTBaseNavigationController.swift */,
+			);
+			path = CTLBFBase;
+			sourceTree = "<group>";
+		};
+		86EF2BF61D1928B90038B36F /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				86EF2C211D192AF10038B36F /* CTHomeViewController.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		86EF2BF71D1928B90038B36F /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				86EF2C1F1D1928E10038B36F /* CTConst.swift */,
+			);
+			path = Other;
+			sourceTree = "<group>";
+		};
+		86EF2BF81D1928B90038B36F /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		86EF2BF91D1928B90038B36F /* Resouce */ = {
+			isa = PBXGroup;
+			children = (
+				86EF2BFA1D1928B90038B36F /* AD */,
+				86EF2BFB1D1928B90038B36F /* FocusURL.plist */,
+				86EF2BFC1D1928B90038B36F /* HelpPlist.plist */,
+				86EF2BFD1D1928B90038B36F /* Mine */,
+				86EF2BFE1D1928B90038B36F /* MinePlist.plist */,
+				86EF2BFF1D1928B90038B36F /* MyAdress */,
+				86EF2C001D1928B90038B36F /* MyCoupon */,
+				86EF2C011D1928B90038B36F /* MyOrders */,
+				86EF2C021D1928B90038B36F /* Search */,
+				86EF2C031D1928B90038B36F /* SearchProduct */,
+				86EF2C041D1928B90038B36F /* supermarket */,
+				86EF2C051D1928B90038B36F /* SystemMessage */,
+				86EF2C061D1928B90038B36F /* UserMessage */,
+				86EF2C071D1928B90038B36F /* 促销 */,
+				86EF2C081D1928B90038B36F /* 系统消息 */,
+				86EF2C091D1928B90038B36F /* 首页新鲜热卖 */,
+				86EF2C0A1D1928B90038B36F /* 首页焦点按钮 */,
+			);
+			path = Resouce;
+			sourceTree = "<group>";
+		};
+		86EF2C0B1D1928B90038B36F /* ShopCar */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ShopCar;
+			sourceTree = "<group>";
+		};
+		86EF2C0C1D1928B90038B36F /* SuperMarket */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = SuperMarket;
+			sourceTree = "<group>";
+		};
+		86EF2C0D1D1928B90038B36F /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Tools;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -81,6 +216,7 @@
 		86EF2BD71D19259E0038B36F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = CT;
 				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = CT;
@@ -114,7 +250,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				86EF2C1D1D1928B90038B36F /* 首页新鲜热卖 in Resources */,
+				86EF2C1B1D1928B90038B36F /* 促销 in Resources */,
+				86EF2C161D1928B90038B36F /* Search in Resources */,
+				86EF2C171D1928B90038B36F /* SearchProduct in Resources */,
+				86EF2C191D1928B90038B36F /* SystemMessage in Resources */,
+				86EF2C151D1928B90038B36F /* MyOrders in Resources */,
+				86EF2C1C1D1928B90038B36F /* 系统消息 in Resources */,
+				86EF2C131D1928B90038B36F /* MyAdress in Resources */,
+				86EF2C1A1D1928B90038B36F /* UserMessage in Resources */,
+				86EF2C121D1928B90038B36F /* MinePlist.plist in Resources */,
+				86EF2C141D1928B90038B36F /* MyCoupon in Resources */,
 				86EF2BEA1D19259E0038B36F /* Assets.xcassets in Resources */,
+				86EF2C0F1D1928B90038B36F /* FocusURL.plist in Resources */,
+				86EF2C101D1928B90038B36F /* HelpPlist.plist in Resources */,
+				86EF2C0E1D1928B90038B36F /* AD in Resources */,
+				86EF2C1E1D1928B90038B36F /* 首页焦点按钮 in Resources */,
+				86EF2C181D1928B90038B36F /* supermarket in Resources */,
+				86EF2C111D1928B90038B36F /* Mine in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -125,6 +278,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				86EF2C241D192D260038B36F /* CTMainViewController.swift in Sources */,
+				86EF2C201D1928E10038B36F /* CTConst.swift in Sources */,
+				86EF2C221D192AF10038B36F /* CTHomeViewController.swift in Sources */,
+				86EF2C261D192E850038B36F /* CTBaseNavigationController.swift in Sources */,
 				86EF2BE31D19259E0038B36F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -217,6 +374,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
 				INFOPLIST_FILE = LoveFreshBeen/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -229,6 +387,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
 				INFOPLIST_FILE = LoveFreshBeen/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
